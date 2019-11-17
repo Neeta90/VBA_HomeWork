@@ -1,4 +1,4 @@
-# VBA_HomeWork
+# Stock Data Analysis
 
 Stock Data 2014 - Total stock volume and Ticker Value
 
