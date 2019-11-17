@@ -10,3 +10,6 @@ Stock Data 2015 - Total stock volume and Ticker Value
 
 Stock Data 2016 - Total stock volume and Ticker Value
 
+![2016_Screenshot](https://user-images.githubusercontent.com/50187921/69012359-945b8380-093a-11ea-8aa4-4aca1c37473a.png)
+
+
